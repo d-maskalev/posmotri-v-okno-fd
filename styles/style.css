@@ -197,7 +197,7 @@ input:focus {
 
 .search-form__label-text:hover, 
 .button:hover, 
-.content__card-link:hover
+.content__card-link:hover 
 {
   text-decoration: underline solid #ffffff 1px;
   text-decoration-skip-ink: none;
