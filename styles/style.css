@@ -237,12 +237,6 @@ input:focus {
   gap: 30px;
 }
 
-/* позиционирование прелоадера */
-.preloader-template {
-  position: absolute;
-  inset: 0;
-}
-
 /* cards-list-item-template */
 
 .content__list-item {
