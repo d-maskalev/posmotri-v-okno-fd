@@ -87,12 +87,11 @@ input:focus {
   overflow: hidden;
 }
 
-.result__video-container .result__video {
-  position: absolute;
-  inset: 0;
+.result__video {
   width: 100%;
   height: 100%;
   object-fit: cover;
+  object-position: center;
 }
 
 .search-form {
